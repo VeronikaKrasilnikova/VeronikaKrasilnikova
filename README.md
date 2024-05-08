@@ -1,4 +1,4 @@
-![img]([https://s5-goods.ozstatic.by/2000/508/886/10/10886508_0.jpg](https://sun9-25.userapi.com/impg/D_Ln5uIclvqDho3YF3AwSeaI4MqJXSzr0NyyoA/boRpk1TTkRA.jpg?size=707x624&quality=96&sign=b47c611c339884f4910fce789336babe&c_uniq_tag=QEWU_D05pRs5qpoYO3h8A_LaPYnc8QeGDZGdOPWvA9g&type=album))
+![img](https://sun9-25.userapi.com/impg/D_Ln5uIclvqDho3YF3AwSeaI4MqJXSzr0NyyoA/boRpk1TTkRA.jpg?size=707x624&quality=96&sign=b47c611c339884f4910fce789336babe&c_uniq_tag=QEWU_D05pRs5qpoYO3h8A_LaPYnc8QeGDZGdOPWvA9g&type=album)
 # Красильникова Вероника
 
 ### **Краткое представление:**
