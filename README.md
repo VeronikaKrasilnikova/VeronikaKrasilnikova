@@ -1,4 +1,4 @@
-![img](/maxresdefault.jpg "Web design & Development")
+![img](https://s5-goods.ozstatic.by/2000/508/886/10/10886508_0.jpg)
 # Красильникова Вероника
 
 ### **Краткое представление:**
