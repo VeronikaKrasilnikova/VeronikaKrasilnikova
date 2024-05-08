@@ -6,7 +6,6 @@
 
 ### ***Контактная информация:***
 - Электронная почта: veranika.krasilnikova@example.com
-- Телефон: +375449853890
 - LinkedIn: linkedin.com/in/vera_krasilnikova
 
 ### **Навыки**
