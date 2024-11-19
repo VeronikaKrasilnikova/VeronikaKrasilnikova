@@ -16,7 +16,7 @@
 ссылка на проект: [Search for Courses](https://spontaneous-jalebi-31af4f.netlify.app/сайт/main)
 
 *Проект "веб-сайт пиццерии":* Спроектирована frontend часть веб-сайта. Реализован интерфейс пользователя и администратора.
-ссылка на проект: [TenPizza]()
+ссылка на проект: [TenPizza](https://tenpizza.netlify.app/)
 
 [Ссылка на работы](https://spontaneous-jalebi-31af4f.netlify.app)
 
