@@ -24,7 +24,7 @@
    направление    | навыки 
 -----------|:-------: 
 Языки программирования       |   JavaScript, TypeScript, Python, Java,
-Frontend development      |   HTML5, CSS, JS, React TS, Astro
+Frontend development      |   HTML5, CSS, React, Astro
 Базы данных    |   MySQL, MongoDB, PostgreSQL 
 
 ### Образование:
@@ -49,6 +49,7 @@ Frontend development      |   HTML5, CSS, JS, React TS, Astro
 ### React
 - умею создавать приложения при помощи Create React App;
 - умею создавать отдельные страницы при помощи React Router;
+- использую хуки (useEffect, useEffect)
 
 ### Git
 - знаю основные команды git;
