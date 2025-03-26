@@ -18,6 +18,9 @@
 *Проект "веб-сайт пиццерии":* Спроектирована frontend часть веб-сайта. Реализован интерфейс пользователя и администратора.
 ссылка на проект: [TenPizza](https://tenpizza.netlify.app/)
 
+*Проект "видео-портал":* Pet-проект на React TS.
+ссылка на проект: [Video-Portal](https://testvideoportal.netlify.app/)
+
 [Ссылка на работы](https://spontaneous-jalebi-31af4f.netlify.app)
 
 ### **Навыки**
